@@ -24,6 +24,8 @@ Weather App é um aplicativo de previsão do tempo que fornece informações atu
 Veja abaixo um gif do projeto.</br>
 [![Image from Gyazo](https://i.gyazo.com/1353afd4a003863897939ff2b51e21e7.gif)](https://gyazo.com/1353afd4a003863897939ff2b51e21e7)
 
+<h2 ><a href="https://vinicyusabreu.github.io/weatherApp/" target="_blank">🚀 Link do Projeto 🚀</a></h2>
+
 ## 🎯 Objetivo do projeto
 
 Este projeto é uma solução para o desafio do [DevChallenges](https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv). Projeto criado para treinar ReactJS.
