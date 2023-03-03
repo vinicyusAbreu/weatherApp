@@ -1,0 +1,19 @@
+.loading-text {
+    color: #a0a0b1;
+    font-weight: bold;
+}
+
+.loading-icon {
+    transform: rotate(0deg);
+    animation: spin 1s linear infinite;
+
+    @keyframes spin {
+        from {
+            transform: rotate(0deg);
+        }
+
+        to {
+            transform: rotate(360deg);
+        }
+    }
+}

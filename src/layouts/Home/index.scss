@@ -1,0 +1,11 @@
+.container {
+    background-color: #100E1D;
+    display: grid;
+    grid-template-columns: 459px 1fr;
+    position: relative;
+    min-height: 100vh;
+
+    @media screen and (max-width:960px) {
+        grid-template-columns: 1fr 1fr;
+    }
+}
