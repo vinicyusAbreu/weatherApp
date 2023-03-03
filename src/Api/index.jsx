@@ -5,5 +5,5 @@ export const apiTemp = axios.create({
 });
 
 export const apiGeoLocation = axios.create({
-  baseURL: "http://api.openweathermap.org",
+  baseURL: "https://api.openweathermap.org",
 });
